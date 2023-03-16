@@ -1,1 +1,26 @@
-git status
+1.instalar o NodeJS (nodejs.org)
+2.npm --version (check do nodejs instalado)
+3.instalar o angular (https://angular.io/guide/setup-local)
+  3.1 npm instal @angular/cli
+4.ng version (check angular instalado)
+
+
+# ----- Rotinas do GIT
+1.git status (verificar situação)
+2.se vermelho -> git add .
+3.se verde -> git commit -m "nome do commit"
+4. se td ok! git push (atualiza no github)
+
+#---- ANGULAR
+ng new nome-projeto (criar um projeto)
+
+ng serve -o (rodar e abrir o projeto - precisa estar dentro da pasta do projeto"my-app")
+
+aula 
+
+cd my-app
+npm install
+(para instalar o node_modules)
+
+(index.html que fica dentro da pasta src!)
+app.component.html (cntrlA e deleta)
