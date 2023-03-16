@@ -24,3 +24,5 @@ npm install
 
 (index.html que fica dentro da pasta src!)
 app.component.html (cntrlA e deleta)
+
+antes de fazer qualquer coisa (git config --system --unset credential.helper)
